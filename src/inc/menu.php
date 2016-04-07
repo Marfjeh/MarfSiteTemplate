@@ -1,3 +1,3 @@
 <div id="menu">
-<a href="#">Home</a>
+&emsp;<a href="#">Home</a>&emsp;<a href="#">Item2</a>
 </div>

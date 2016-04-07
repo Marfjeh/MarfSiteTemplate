@@ -1,6 +1,6 @@
 <?php
-//MArfSiteTemplate version 0.1
-$page_name = "index";
+//MarfSiteTemplate version 0.2
+$page_name = "Home";
 
 require_once("inc/config.php"); //for mysql or some diffrent config settings you like
 require_once("inc/head.php"); //this is where the <html> <head> is stored like meta tags and titles.
